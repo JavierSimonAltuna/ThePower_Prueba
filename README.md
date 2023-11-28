@@ -1,2 +1,2 @@
 # The power
- Prueba THePower
+ Prueba ThePower
